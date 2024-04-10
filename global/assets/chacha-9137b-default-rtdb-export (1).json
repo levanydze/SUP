@@ -1,0 +1,403 @@
+{
+  "Ninachkaab": {
+    "menu": {
+      "chocolates": {
+        "-NuFwtiGChP1Yiyys_SR": {
+          "chocolates": true,
+          "description": "",
+          "disable": false,
+          "id": "-NuFwtiGChP1Yiyys_SR",
+          "image": "ss",
+          "ingredients": "",
+          "name": "leo",
+          "newItem": false,
+          "portions": "",
+          "price": 99,
+          "priority": 55,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      },
+      "coffee": {
+        "-NuFxUTZ1LC5CV1tMNAC": {
+          "coffee": true,
+          "description": "",
+          "disable": false,
+          "id": "-NuFxUTZ1LC5CV1tMNAC",
+          "image": "",
+          "ingredients": "",
+          "name": "Cappuccino ",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 4,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      }
+    }
+  },
+  "chachaab": {
+    "menu": {
+      "breakfast": {
+        "-Nts7hdpkDpF0yxHTsaW": {
+          "breakfast": true,
+          "description": "lorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolor",
+          "disable": false,
+          "id": "-Nts7hdpkDpF0yxHTsaW",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "lorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolor",
+          "name": "Chocolate Cake",
+          "newItem": true,
+          "portions": "S / M",
+          "price": 50,
+          "priority": 4,
+          "season": false,
+          "special": true,
+          "spicy": false,
+          "vegan": true
+        },
+        "-NtsBKp15CFNAWegm7Cj": {
+          "breakfast": true,
+          "description": "lorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolor",
+          "disable": false,
+          "id": "-NtsBKp15CFNAWegm7Cj",
+          "image": "https://raw.githubusercontent.com/levanydze/restaurant2024support/main/menuImages/pizza/pizza2.png",
+          "ingredients": "lorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolorlorem isum dolor",
+          "name": "Pizza Bascoiola",
+          "newItem": true,
+          "portions": "S / M",
+          "price": 24,
+          "priority": 5,
+          "season": false,
+          "special": true,
+          "spicy": false,
+          "vegan": true
+        },
+        "-Nu5t9ZIJQDtkt1eb4HY": {
+          "breakfast": true,
+          "description": "",
+          "disable": false,
+          "id": "-Nu5t9ZIJQDtkt1eb4HY",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6566.jpg?raw=true",
+          "ingredients": "photo is taken by me in order to demonstrate my photography skills  on my web pages",
+          "name": "ChaCha Photography",
+          "newItem": true,
+          "portions": "All",
+          "price": 120,
+          "priority": 1,
+          "season": true,
+          "special": true,
+          "spicy": true,
+          "vegan": false
+        },
+        "-Nu5tMm-pS8KDq3HQaoN": {
+          "breakfast": true,
+          "description": "",
+          "disable": false,
+          "id": "-Nu5tMm-pS8KDq3HQaoN",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6523.jpg?raw=true",
+          "ingredients": "photo is taken by me in order to demonstrate my photography skills  on my web pages",
+          "name": "ChaCha Photo",
+          "newItem": true,
+          "portions": "",
+          "price": 0,
+          "priority": 2,
+          "season": true,
+          "special": false,
+          "spicy": true,
+          "vegan": false
+        },
+        "-Nu5tzE_7sLvB9I3ak6m": {
+          "breakfast": true,
+          "description": "",
+          "disable": false,
+          "id": "-Nu5tzE_7sLvB9I3ak6m",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6567.jpg?raw=true",
+          "ingredients": "photo is taken by me in order to demonstrate my photography skills  on my web pages",
+          "name": "Levani Photo",
+          "newItem": false,
+          "portions": "100 / 200",
+          "price": 250,
+          "priority": 3,
+          "season": true,
+          "special": true,
+          "spicy": false,
+          "vegan": false
+        },
+        "-NuCyu-2sYV7gQW3F6Sx": {
+          "breakfast": true,
+          "description": "",
+          "disable": false,
+          "id": "-NuCyu-2sYV7gQW3F6Sx",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6530.jpg?raw=true",
+          "ingredients": "",
+          "name": "12",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 99,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      },
+      "dessert": {
+        "-Ntrm-ry2jxTACmd9hEB": {
+          "description": "",
+          "dessert": true,
+          "disable": false,
+          "id": "-Ntrm-ry2jxTACmd9hEB",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "",
+          "newItem": false,
+          "portions": "",
+          "price": 1122222,
+          "priority": 2,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        },
+        "-Ntrm3WxDVvdYYNPibZY": {
+          "description": "",
+          "dessert": true,
+          "disable": false,
+          "id": "-Ntrm3WxDVvdYYNPibZY",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "",
+          "newItem": false,
+          "portions": "",
+          "price": 0,
+          "priority": 2233,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        },
+        "-NtumBXa3BN2AHqEdvgd": {
+          "description": "",
+          "dessert": true,
+          "disable": false,
+          "id": "-NtumBXa3BN2AHqEdvgd",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "ss",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 22,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        },
+        "-NuDz7W3K8gN_TJisqxu": {
+          "description": "",
+          "dessert": true,
+          "disable": false,
+          "id": "-NuDz7W3K8gN_TJisqxu",
+          "image": "",
+          "ingredients": "",
+          "name": "ss",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 99,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      },
+      "drinks": {
+        "-Nts1P_RC_d1vuk0Oqe4": {
+          "description": "",
+          "disable": false,
+          "drinks": true,
+          "id": "-Nts1P_RC_d1vuk0Oqe4",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "sss",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 5,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        },
+        "-NtuQ4GlB-q8w3kNJzr2": {
+          "description": "",
+          "disable": false,
+          "drinks": true,
+          "id": "-NtuQ4GlB-q8w3kNJzr2",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "aaaaadddddd",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 99,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      },
+      "lunch": {
+        "-Ntrm8tZws_WNblx7qhq": {
+          "description": "",
+          "disable": false,
+          "id": "-Ntrm8tZws_WNblx7qhq",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "lunch": true,
+          "name": "",
+          "newItem": false,
+          "portions": "",
+          "price": 0,
+          "priority": 1,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      },
+      "special": {
+        "-Nts8--D_CQ6dahXxlyr": {
+          "description": "",
+          "disable": true,
+          "id": "-Nts8--D_CQ6dahXxlyr",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "3",
+          "newItem": false,
+          "portions": "",
+          "price": 99,
+          "priority": 99,
+          "season": false,
+          "special": true,
+          "spicy": false,
+          "vegan": false
+        },
+        "-NtuEY6TxWoELz5qUWy6": {
+          "description": "",
+          "disable": false,
+          "id": "-NtuEY6TxWoELz5qUWy6",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "levanieee",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 1,
+          "season": false,
+          "special": true,
+          "spicy": false,
+          "vegan": false
+        },
+        "-NtuPj38Fw7kof1vSwwX": {
+          "description": "",
+          "disable": false,
+          "id": "-NtuPj38Fw7kof1vSwwX",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/dessert/chokolade.jpeg?raw=true",
+          "ingredients": "",
+          "name": "aaaaaaa",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 2,
+          "season": false,
+          "special": true,
+          "spicy": false,
+          "vegan": false
+        }
+      }
+    }
+  },
+  "otherab": {
+    "menu": {
+      "breakfast": {
+        "-NuD0jqjVI9odumLoglf": {
+          "breakfast": true,
+          "description": "123",
+          "disable": false,
+          "id": "-NuD0jqjVI9odumLoglf",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6530.jpg?raw=true",
+          "ingredients": "",
+          "name": "leo",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 99,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      },
+      "seafood": {
+        "-NuD0jqjVI9odumLoglf": {
+          "description": "123",
+          "disable": false,
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6530.jpg?raw=true",
+          "ingredients": "",
+          "name": "leo",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 9922,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "vegan": false
+        }
+      },
+      "sushi": {
+        "-NuDN1Qn_hifPObWsKf_": {
+          "description": "",
+          "disable": false,
+          "id": "-NuDN1Qn_hifPObWsKf_",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6530.jpg?raw=true",
+          "ingredients": "",
+          "name": "SUSHI",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 99,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "sushi": true,
+          "vegan": false
+        },
+        "-NuDPXFz8woCyCoNtJT6": {
+          "description": "",
+          "disable": false,
+          "id": "-NuDPXFz8woCyCoNtJT6",
+          "image": "https://github.com/levanydze/restaurant2024support/blob/main/Food%20Lightroom/IMG_6566.jpg?raw=true",
+          "ingredients": "",
+          "name": "leoleo",
+          "newItem": false,
+          "portions": "",
+          "price": "",
+          "priority": 99,
+          "season": false,
+          "special": false,
+          "spicy": false,
+          "sushi": true,
+          "vegan": false
+        }
+      }
+    }
+  }
+}
