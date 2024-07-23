@@ -1,18 +1,11 @@
-[  {
-    "id": "3",
-    "text": "Purposed, Australia",
-    "title": "Website design & build.",
-    "text1": "text1",
-    "text2": "text2",
-    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/assets/mepng-min.png?raw=true"
-  },
+[  
   {
     "id": "3",
     "text": "Purposed, Australia",
     "title": "Website design & build.",
     "text1": "text1",
     "text2": "text2",
-    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/breakfast/eggs.jpeg?raw=true"
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/5b62065e7448e382f4e21fc5_purposed%20(1).jpg?raw=true"
   },
   {
     "id": "2",
@@ -20,7 +13,7 @@
     "title": "Web platform design.",
     "text1": "text1",
     "text2": "text2",
-    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/breakfast/milk.jpeg?raw=true"
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/2.jpg?raw=true"
   },
   {
     "id": "1",
@@ -28,6 +21,6 @@
     "title": "Website design & build.",
     "text1": "text1",
     "text2": "text2",
-    "image": "https://github.com/levanydze/restaurant2024support/blob/main/menuImages/breakfast/blins.jpeg?raw=true"
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/1.jpg?raw=true"
   }
 ]
