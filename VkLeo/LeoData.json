@@ -1,7 +1,7 @@
 [
   {
     "id": "4",
-    "text": "Go Green City, Switzerland",
+    "location": "Go Green City, Switzerland",
     "title": "Website design & build.",
     "text1": "text1",
     "text2": "text2",
@@ -10,7 +10,7 @@
   } ,
   {
     "id": "3",
-    "text": "Go Green City, Switzerland",
+    "location": "Go Green City, Switzerland",
     "title": "Website design & build.",
     "text1": "text1",
     "text2": "text2",
@@ -19,7 +19,7 @@
   },
   {
     "id": "2",
-    "text": "Purposed, Australia",
+    "location": "Purposed, Australia",
     "title": "Website design & build.",
     "text1": "text1",
     "text2": "text2",
@@ -28,7 +28,7 @@
   },
   {
     "id": "1",
-    "text": "Learn & Enjoy, Switzerland",
+    "location": "Learn & Enjoy, Switzerland",
     "title": "Web platform design.",
     "text1": "text1",
     "text2": "text2",
