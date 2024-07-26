@@ -5,7 +5,8 @@
     "title": "Website design & build.",
     "text1": "text1",
     "text2": "text2",
-    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurant%20banner-min.png?raw=true"
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurant%20banner-min.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-fire-rest1-vercel-app-2024-07-26-16_43_45-min.png?raw=true"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "title": "Web platform design.",
     "text1": "text1",
     "text2": "text2",
-    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/2.jpg?raw=true"
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/2.jpg?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-fire-rest1-vercel-app-2024-07-26-16_43_45-min.png?raw=true"
   },
   {
     "id": "1",
@@ -21,6 +23,7 @@
     "title": "Website design & build.",
     "text1": "text1",
     "text2": "text2",
-    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/1.jpg?raw=true"
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/1.jpg?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-fire-rest1-vercel-app-2024-07-26-16_43_45-min.png?raw=true"
   }
 ]
