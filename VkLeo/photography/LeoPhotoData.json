@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4",
+    "location": "Go Green City, Switzerland",
+    "title": "Website design & build.",
+    "text1": "This is a landing page design and build that I've done for an IT support company. I gave their brand a fresh new look and updated their color palette to something that says all systems are up and running, as that's what one would want from an IT support.",
+    "text2": "I have used custom illustrations to give a page more personal feel and less stocky, generic look. The goal was to combine friendly, local support with modern and top notch without making it look corporate or mom-and-pop kind of business.",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/banner-min.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/screencapture-chachaweb-2024-07-26-18_44_12-min.png?raw=true"
+  } ,
+  {
+    "id": "3",
+    "location": "Go Green City, Switzerland",
+    "title": "Website design & build.",
+    "text1": "text1",
+    "text2": "text2",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/donabygg/banner-min.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/donabygg/screencapture-don-b-vercel-app-se-2024-07-26-18_19_49-min.png?raw=true"
+  },
+  {
+    "id": "2",
+    "location": "Purposed, Australia",
+    "title": "Website design & build.",
+    "text1": "text1",
+    "text2": "text2",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurant%20banner-min.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-fire-rest1-vercel-app-2024-07-26-16_43_45-min.png?raw=true"
+  },
+  {
+    "id": "1",
+    "location": "Learn & Enjoy, Switzerland",
+    "title": "Web platform design.",
+    "text1": "text1",
+    "text2": "text2",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/banner.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/screencapture-artoflevanidze-2024-07-26-17_53_56-min.png?raw=true"
+  }
+]
