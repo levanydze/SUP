@@ -9,7 +9,7 @@
     "deisgn":true,
     "photo":true,
     "copy":true,
-    "webflow":true,
+    "webflow":false,
     "nextjs":true,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/banner-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/screencapture-chachaweb-2024-07-26-18_44_12-min.png?raw=true"
@@ -24,7 +24,7 @@
     "deisgn":true,
     "photo":true,
     "copy":true,
-    "webflow":true,
+    "webflow":false,
     "nextjs":true,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/donabygg/banner-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/donabygg/screencapture-don-b-vercel-app-se-2024-07-26-18_19_49-min.png?raw=true"
@@ -40,7 +40,7 @@
     "photo":true,
     "copy":true,
     "webflow":true,
-    "nextjs":true,
+    "nextjs":false,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/screencapture-blog-levani-webflow-io-2024-07-30-17_00_20.png?raw=true"
   } ,
@@ -55,7 +55,7 @@
     "photo":true,
     "copy":true,
     "webflow":true,
-    "nextjs":true,
+    "nextjs":false,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/screencapture-levanis-test-webflow-io-2024-07-30-17_02_09.png?raw=true"
   },
@@ -69,7 +69,7 @@
     "deisgn":true,
     "photo":true,
     "copy":true,
-    "webflow":true,
+    "webflow":false,
     "nextjs":true,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurant%20banner-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-fire-rest1-vercel-app-2024-07-26-16_43_45-min.png?raw=true"
@@ -80,12 +80,12 @@
     "title": "Web platform design.",
     "text1": "text1",
     "text2": "text2",
-    "date":"2024",
+    "date":"2023",
     "deisgn":true,
     "photo":true,
     "copy":true,
-    "webflow":true,
-    "nextjs":true,
+    "webflow":false,
+    "nextjs":false,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/screencapture-artoflevanidze-2024-07-26-17_53_56-min.png?raw=true"
   },
@@ -95,11 +95,11 @@
     "title": "Web platform design.",
     "text1": "text1",
     "text2": "text2",
-    "date":"2024",
+    "date":"2023",
     "deisgn":true,
     "photo":true,
     "copy":true,
-    "webflow":true,
+    "webflow":false,
     "nextjs":true,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/Group%201-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/screencapture-levanidze-2024-07-30-15_58_36-min.png?raw=true"
@@ -112,10 +112,10 @@
     "text2": "text2",
     "date":"2023",
     "deisgn":true,
-    "photo":true,
+    "photo":false,
     "copy":true,
-    "webflow":true,
-    "nextjs":true,
+    "webflow":false,
+    "nextjs":false,
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant%20old/Group%201-min%20(1).png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant%20old/screencapture-levanydze-github-io-Base-Project-index-html-2024-07-30-16_07_52-min.png?raw=true"
   }
