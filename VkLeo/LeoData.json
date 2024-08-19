@@ -43,7 +43,7 @@
     "copy":true,
     "webflow":true,
     "nextjs":false,
-    "link":"",
+    "link":"http://blog-levani.webflow.io/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/screencapture-blog-levani-webflow-io-2024-07-30-17_00_20.png?raw=true"
   } ,
@@ -59,7 +59,7 @@
     "copy":true,
     "webflow":true,
     "nextjs":false,
-    "link":"",
+    "link":"http://levanis-test.webflow.io/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/screencapture-levanis-test-webflow-io-2024-07-30-17_02_09.png?raw=true"
   },
@@ -75,7 +75,7 @@
     "copy":true,
     "webflow":false,
     "nextjs":true,
-    "link":"",
+    "link":"https://fire-rest1.vercel.app/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurant%20banner-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-fire-rest1-vercel-app-2024-07-26-16_43_45-min.png?raw=true"
   },
@@ -91,7 +91,7 @@
     "copy":true,
     "webflow":false,
     "nextjs":false,
-    "link":"",
+    "link":"https://artoflevanidze.com",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/screencapture-artoflevanidze-2024-07-26-17_53_56-min.png?raw=true"
   },
@@ -107,7 +107,7 @@
     "copy":true,
     "webflow":false,
     "nextjs":true,
-    "link":"",
+    "link":"https://levan.vercel.app/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/Group%201-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/screencapture-levanidze-2024-07-30-15_58_36-min.png?raw=true"
   }
