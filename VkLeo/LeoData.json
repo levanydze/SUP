@@ -106,9 +106,9 @@
     "photo": true,
     "copy": true,
     "webflow": false,
-    "nextjs”: true,
-    “link”:“https://levan.vercel.app/”,
-    “image”: “https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/Group%201-min.png?raw=true”,
-    “wholeImage”:“https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/screencapture-levanidze-2024-07-30-15_58_36-min.png?raw=true”
+    "nextjs"true,
+    "link":“https://levan.vercel.app/”,
+    "image": “https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/Group%201-min.png?raw=true”,
+    "wholeImage":“https://github.com/levanydze/SUP/blob/main/VkLeo/projects/levanidze%20portfolio/screencapture-levanidze-2024-07-30-15_58_36-min.png?raw=true”
   }
 ]
