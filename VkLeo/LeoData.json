@@ -1,7 +1,7 @@
 [
   {
     "id": "8",
-    "location": "Web Agency, Switzerland",
+    "location": "Web Agency",
     "title": "Website design & development.",
     "text1": "This project involved the design and development of a sleek, user-friendly website for a web agency. The site features an intuitive interface, allowing users to filter and browse services by category. The overall design emphasizes a modern aesthetic, providing a seamless experience that effectively highlights the agency’s diverse range of offerings.",
     "text2": "To improve the user experience, I integrated dynamic filtering options, simplifying the service selection process. The website was built using Next.js, which ensures fast performance and scalability. Custom icons and interactive elements were added to boost engagement, reflecting the agency’s innovative approach.",
