@@ -59,7 +59,7 @@
     "copy": true,
     "webflow": true,
     "nextjs": false,
-    "link":"http://blog-levani.webflow.io/",
+    "link":"",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/screencapture-blog-levani-webflow-io-2024-07-30-17_00_20.png?raw=true"
   },
@@ -75,7 +75,7 @@
     "copy": true,
     "webflow": true,
     "nextjs": false,
-    "link":"http://levanis-test.webflow.io/",
+    "link":"",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/screencapture-levanis-test-webflow-io-2024-07-30-17_02_09.png?raw=true"
   },
