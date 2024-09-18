@@ -83,10 +83,8 @@
                 "fr": true
               }
             }
-            // Add more items inside "dinner"
           }
         }
-        // Add more categories like "lunch", "drinks", etc.
       }
     }
   }
