@@ -1,0 +1,90 @@
+{
+  "chachaab": {
+    "menu": {
+      "categories": {
+        "breakfast": {
+          "translations": {
+            "en": "Breakfast",
+            "de": "Frühstück",
+            "it": "Colazione",
+            "fr": "Petit-déjeuner"
+          },
+          "items": {
+            "-O4zIWqrsRiugxDICQ-I": {
+              "descriptions": {
+                "en": "Cornbread served with a side of creamy Georgian cheese.",
+                "de": "Maisbrot mit einer Beilage aus cremigem georgischem Käse.",
+                "it": "Pane di mais servito con una porzione di formaggio georgiano cremoso.",
+                "fr": "Pain de maïs servi avec une portion de fromage géorgien crémeux."
+              },
+              "ingredients": {
+                "en": "Cornbread, Georgian cheese",
+                "de": "Maisbrot, georgischer Käse",
+                "it": "Pane di mais, formaggio georgiano",
+                "fr": "Pain de maïs, fromage géorgien"
+              },
+              "names": {
+                "en": "Georgian Cornbread",
+                "de": "Georgisches Maisbrot",
+                "it": "Pane di mais georgiano",
+                "fr": "Pain de maïs géorgien"
+              },
+              "disable": false,
+              "id": "-O4zIWqrsRiugxDICQ-I",
+              "image": "https://github.com/levanydze/restaurant2024support/blob/main/my%20photos%20for%20menu/first%20acharuli-min.jpg?raw=true",
+              "price": 99,
+              "priority": 99,
+              "isTranslationComplete": {
+                "en": true,
+                "de": true,
+                "it": true,
+                "fr": true
+              }
+            }
+          }
+        },
+        "dinner": {
+          "translations": {
+            "en": "Dinner",
+            "de": "Abendessen",
+            "it": "Cena",
+            "fr": "Dîner"
+          },
+          "items": {
+            "-O4zIkz9XtzFah9Dzs9P": {
+              "descriptions": {
+                "en": "Grilled Georgian Shashlik served with fresh herbs.",
+                "de": "Georgischer gegrillter Schaschlik serviert mit frischen Kräutern.",
+                "it": "Shashlik georgiano alla griglia servito con erbe fresche.",
+                "fr": "Shashlik géorgien grillé servi avec des herbes fraîches."
+              },
+              "ingredients": {
+                "en": "Pork, onions, parsley, Georgian spices",
+                "de": "Schweinefleisch, Zwiebeln, Petersilie, georgische Gewürze",
+                "it": "Maiale, cipolle, prezzemolo, spezie georgiane",
+                "fr": "Porc, oignons, persil, épices géorgiennes"
+              },
+              "names": {
+                "en": "Georgian Shashlik",
+                "de": "Georgischer Schaschlik",
+                "it": "Shashlik georgiano",
+                "fr": "Shashlik géorgien"
+              },
+              "disable": false,
+              "id": "-O4zIkz9XtzFah9Dzs9P",
+              "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/photography/Food%20Photogaphy/first%20pizza-min.jpg?raw=true",
+              "price": 200,
+              "priority": 80,
+              "isTranslationComplete": {
+                "en": true,
+                "de": true,
+                "it": true,
+                "fr": true
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
