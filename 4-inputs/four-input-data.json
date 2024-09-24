@@ -1,0 +1,14 @@
+[
+  {
+    "companyName": "ChaCha AB",
+    "company": "chachaab",
+    "email": ["artoflevanidze@gmail.com"],
+    "domain":"https://chacharestaurant.vercel.app",
+  },
+  {
+    "companyName": "Other AB",
+    "company": "otherab",
+    "email": ["levanydze@gmail.com"],
+    "domain":"https://levanidze.com",
+  }
+]
