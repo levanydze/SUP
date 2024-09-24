@@ -4,13 +4,13 @@
     "company": "chachaab",
     "email": ["artoflevanidze@gmail.com"],
     "domain":"https://chacharestaurant.vercel.app",
-    "languages": [ "ge", "fr"]
+    "languages": [ "en", "fr", "de","it"]
   },
   {
     "name": "Other AB",
     "company": "otherab",
     "email": ["levanydze@gmail.com"],
     "domain":"https://chacharestaurant.vercel.app",
-    "languages": [ "en", "ge", "de", "it"]
+    "languages": [ "ge","it"]
   }
 ]
