@@ -1,6 +1,38 @@
-[
-  {
+[{
+    "id": "9",
+    "location": "Restaurant, Stockholm",
+    "title": "Website design & development.",
+    "text1": "I designed a vibrant and visually engaging website for a restaurant, incorporating a dynamic menu that updates in real-time. The homepage is crafted to highlight the restaurant’s signature dishes and key information, aiming to captivate visitors and enhance their online experience. The design is intended to not only attract customers but also to communicate the restaurant's brand effectively.",
+    "text2": "To improve the site’s functionality, I implemented a robust control panel that allows the restaurant manager to easily add, edit, or remove menu items using Google Auth. This feature ensures the menu remains current and accurate, providing a seamless and efficient way to manage the restaurant's offerings.",
+    "date":"2024",
+    "deisgn": true,
+    "photo": true,
+    "copy": true,
+    "webflow": false,
+    "nextjs": true,
+    "link":"https://rest-02.vercel.app/",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurantbanner-min.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-chacharestaurant-vercel-app-2024-08-23-15_51_56-min.png?raw=true"
+  },
+
+ {
     "id": "8",
+    "location": "Restaurant, Stockholm",
+    "title": "Website design & development.",
+    "text1": "I designed a vibrant and visually engaging website for a restaurant, incorporating a dynamic menu that updates in real-time. The homepage is crafted to highlight the restaurant’s signature dishes and key information, aiming to captivate visitors and enhance their online experience. The design is intended to not only attract customers but also to communicate the restaurant's brand effectively.",
+    "text2": "To improve the site’s functionality, I implemented a robust control panel that allows the restaurant manager to easily add, edit, or remove menu items using Google Auth. This feature ensures the menu remains current and accurate, providing a seamless and efficient way to manage the restaurant's offerings.",
+    "date":"2024",
+    "deisgn": true,
+    "photo": true,
+    "copy": true,
+    "webflow": false,
+    "nextjs": true,
+    "link":"https://rest-01.vercel.app/",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurantbanner-min.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-chacharestaurant-vercel-app-2024-08-23-15_51_56-min.png?raw=true"
+  },
+    {
+    "id": "7",
     "location": "Web Agency",
     "title": "Website design & development.",
     "text1": "This project involved the design and development of a sleek, user-friendly website for a web agency. The site features an intuitive interface, allowing users to filter and browse services by category. The overall design emphasizes a modern aesthetic, providing a seamless experience that effectively highlights the agency’s diverse range of offerings.",
@@ -14,22 +46,6 @@
     "link":"https://www.chachaweb.se/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/banner-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/screencapture-chachaweb-2024-07-26-18_44_12-min.png?raw=true"
-  },
- {
-    "id": "7",
-    "location": "Restaurant, Stockholm",
-    "title": "Website design & development.",
-    "text1": "I designed a vibrant and visually engaging website for a restaurant, incorporating a dynamic menu that updates in real-time. The homepage is crafted to highlight the restaurant’s signature dishes and key information, aiming to captivate visitors and enhance their online experience. The design is intended to not only attract customers but also to communicate the restaurant's brand effectively.",
-    "text2": "To improve the site’s functionality, I implemented a robust control panel that allows the restaurant manager to easily add, edit, or remove menu items using Google Auth. This feature ensures the menu remains current and accurate, providing a seamless and efficient way to manage the restaurant's offerings.",
-    "date":"2024",
-    "deisgn": true,
-    "photo": true,
-    "copy": true,
-    "webflow": false,
-    "nextjs": true,
-    "link":"https://chacharestaurant.vercel.app/",
-    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/restaurantbanner-min.png?raw=true",
-    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/restaurant/screencapture-chacharestaurant-vercel-app-2024-08-23-15_51_56-min.png?raw=true"
   },
   {
     "id": "6",
