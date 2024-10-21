@@ -10,7 +10,7 @@
     "copy": true,
     "webflow": false,
     "nextjs": true,
-    "link":"https://rest-02.vercel.app/",
+    "link":"https://rest-01.vercel.app/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-01/2.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-01/1.png?raw=true"
   },
@@ -27,7 +27,7 @@
     "copy": true,
     "webflow": false,
     "nextjs": true,
-    "link":"https://rest-01.vercel.app/",
+    "link":"https://rest-02.vercel.app/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-02/4.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-02/3.png?raw=true"
   },
