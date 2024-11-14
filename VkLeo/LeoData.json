@@ -31,7 +31,7 @@
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/ksm/ksm-whole.png?raw=true"
   },{
     "id": "9",
-    "location": "Restaurant, Geneva",
+    "location": "Demo Restaurant, Geneva",
     "title": "Website design & development.",
     "text1": "I designed a vibrant and visually engaging website for a restaurant, incorporating a dynamic menu that updates in real-time. The homepage is crafted to highlight the restaurant’s signature dishes and key information, aiming to captivate visitors and enhance their online experience. The design is intended to not only attract customers but also to communicate the restaurant's brand effectively.",
     "text2": "To improve the site’s functionality, I implemented a robust control panel that allows the restaurant manager to easily add, edit, or remove menu items using Google Auth. This feature ensures the menu remains current and accurate, providing a seamless and efficient way to manage the restaurant's offerings.",
@@ -48,7 +48,7 @@
 
  {
     "id": "8",
-    "location": "Restaurant, Geneva",
+    "location": "Demo Restaurant, Geneva",
     "title": "Website design & development.",
     "text1": "I designed a vibrant and visually engaging website for a restaurant, incorporating a dynamic menu that updates in real-time. The homepage is crafted to highlight the restaurant’s signature dishes and key information, aiming to captivate visitors and enhance their online experience. The design is intended to not only attract customers but also to communicate the restaurant's brand effectively.",
     "text2": "To improve the site’s functionality, I implemented a robust control panel that allows the restaurant manager to easily add, edit, or remove menu items using Google Auth. This feature ensures the menu remains current and accurate, providing a seamless and efficient way to manage the restaurant's offerings.",
@@ -64,7 +64,7 @@
   },
     {
     "id": "7",
-    "location": "Web Agency",
+    "location": "Demo Web Agency",
     "title": "Website design & development.",
     "text1": "This project involved the design and development of a sleek, user-friendly website for a web agency. The site features an intuitive interface, allowing users to filter and browse services by category. The overall design emphasizes a modern aesthetic, providing a seamless experience that effectively highlights the agency’s diverse range of offerings.",
     "text2": "To improve the user experience, I integrated dynamic filtering options, simplifying the service selection process. The website was built using Next.js, which ensures fast performance and scalability. Custom icons and interactive elements were added to boost engagement, reflecting the agency’s innovative approach.",
@@ -96,7 +96,7 @@
   },
   {
     "id": "5",
-    "location": "Carpentry, Geneva",
+    "location": "Demo Carpentry, Geneva",
     "title": "Website design & build.",
     "text1": "I designed a modern Webflow site tailored for a carpenter, incorporating a contact form, dynamic services section, and a showcase of recent projects. The sleek and intuitive layout not only facilitates easy navigation but also effectively highlights the craftsmanship and quality of work, making the site both functional and visually appealing.",
     "text2": "To improve client engagement, I ensured that the design focused on simplicity and ease of use. The site also features a clean and organized gallery that showcases the carpenter’s projects effectively. Every design decision was made to reflect the quality and professionalism of the carpenter's work.",
@@ -112,7 +112,7 @@
   },
   {
     "id": "4",
-    "location": "Carpenter Concept",
+    "location": "Demo Carpenter Concept",
     "title": "Website design & build.",
     "text1": "I developed a simple yet effective website for a carpenter, focusing on essential features like a contact form and a streamlined services section. The design is intentionally straightforward, providing a user-friendly interface that ensures potential clients can easily navigate and find the information they need.",
     "text2": "To improve functionality, I included a clean gallery to showcase completed projects, complemented by a minimalist design that emphasizes the importance of the work itself. This approach offers a clear and direct way for clients to explore services and get in touch, making it an efficient tool for the carpenter's business needs.",
