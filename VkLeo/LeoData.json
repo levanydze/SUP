@@ -13,8 +13,7 @@
     "link":"https://toisondor.ch",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/toison/toison.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/toison/toison-whole.png?raw=true"
-  },
-{
+  },{
     "id": "10",
     "location": "Gardening, Stockholm",
     "title": "Website design & development.",
@@ -41,12 +40,10 @@
     "copy": true,
     "webflow": false,
     "nextjs": true,
-    "link":"https://rest-01.vercel.app/",
-    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-01/2.png?raw=true",
-    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-01/1.png?raw=true"
-  },
-
- {
+    "link":"https://rest-02.vercel.app/",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-02/4.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-02/3.png?raw=true"
+  },{
     "id": "8",
     "location": "Demo Restaurant, Geneva",
     "title": "Website design & development.",
@@ -58,11 +55,10 @@
     "copy": true,
     "webflow": false,
     "nextjs": true,
-    "link":"https://rest-02.vercel.app/",
-    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-02/4.png?raw=true",
-    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-02/3.png?raw=true"
-  },
-    {
+    "link":"https://rest-01.vercel.app/",
+    "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-01/2.png?raw=true",
+    "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/rest-01/1.png?raw=true"
+  },{
     "id": "7",
     "location": "Demo Web Agency",
     "title": "Website design & development.",
@@ -77,8 +73,7 @@
     "link":"https://www.chachaweb.se/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/banner-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/web%20agency/screencapture-chachaweb-2024-07-26-18_44_12-min.png?raw=true"
-  },
-  {
+  },{
     "id": "6",
     "location": "My Carpenter Friend, Sweden",
     "title": "Website design & development.",
@@ -93,8 +88,7 @@
     "link":"https://don-b.vercel.app/",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/donabygg/banner-min.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/donabygg/screencapture-don-b-vercel-app-se-2024-07-26-18_19_49-min.png?raw=true"
-  },
-  {
+  },{
     "id": "5",
     "location": "Demo Carpentry, Geneva",
     "title": "Website design & build.",
@@ -109,8 +103,7 @@
     "link":"",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%20site/screencapture-blog-levani-webflow-io-2024-07-30-17_00_20.png?raw=true"
-  },
-  {
+  },{
     "id": "4",
     "location": "Demo Carpenter Concept",
     "title": "Website design & build.",
@@ -125,9 +118,7 @@
     "link":"",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/carpenter%202/screencapture-levanis-test-webflow-io-2024-07-30-17_02_09.png?raw=true"
-  },
- 
-  {
+  },{
     "id": "3",
     "location": "My Photography",
     "title": "Web platform design.",
@@ -142,8 +133,7 @@
     "link":"https://artoflevanidze.com",
     "image": "https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/banner.png?raw=true",
     "wholeImage":"https://github.com/levanydze/SUP/blob/main/VkLeo/projects/artoflevanidze/screencapture-artoflevanidze-2024-07-26-17_53_56-min.png?raw=true"
-  },
-  {
+  },{
     "id": "2",
     "location": "My Portfolio",
     "title": "Web design & development.",
